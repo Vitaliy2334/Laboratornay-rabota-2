@@ -1,0 +1,9 @@
+some text [5]
+example: int [3]
+another string
+foo: byte [15]
+bar: short [10]
+some more text
+123: int [1]
+test: byte [8]
+string: short [12]
